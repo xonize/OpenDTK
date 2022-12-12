@@ -1,5 +1,22 @@
 # OpenDTK
+
 OpenDataToolkit from Xonize. Contains the Aurelii data serialization format.
 
-## Contributing
-If a feature is missing or you feel like something could be added, make a pull request.
+
+## Roadmap
+
+- Finish packages for all languages for Aurelii
+    - Python
+    - C
+    - C++
+    - Java
+    - Rust
+    - Javascript
+
+- Get community involved!
+
+
+## Authors
+- [@xonize](https://www.github.com/xonize)
+- [@westsi](https://www.github.com/westsi)
+
