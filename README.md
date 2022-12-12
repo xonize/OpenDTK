@@ -12,6 +12,7 @@ OpenDataToolkit from Xonize. Contains the Aurelii data serialization format.
     - Java
     - Rust
     - Javascript
+    - Golang
 
 - Get community involved!
 
