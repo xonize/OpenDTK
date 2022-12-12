@@ -1,0 +1,3 @@
+# Aurelii
+
+Data serialization format
