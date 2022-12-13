@@ -22,4 +22,9 @@ setup(name='aurelii',
           'markdown',
       ],
       include_package_data=True,
-      zip_safe=False)
+      zip_safe=False,
+      scripts=['bin/aurelii'],
+      entry_points = {
+        'console_scripts': ['aurelii=aurelii.command_line:main'],
+    }
+    )
