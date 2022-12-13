@@ -1,3 +1,4 @@
 /aurelii.egg-info
 /dist
 .pypirc
+\__pycache__
