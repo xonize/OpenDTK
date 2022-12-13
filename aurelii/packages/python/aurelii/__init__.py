@@ -1,4 +1,3 @@
-from open import test
 def readme():
     with open('README.rst', 'r') as f:
         return f.read()
@@ -6,3 +5,4 @@ def readme():
 def info():
     '''Prints info for Aurelii package'''
     print("This is the Python package for Aurelii.")
+
