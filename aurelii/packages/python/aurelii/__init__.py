@@ -1,4 +1,4 @@
-import aurelii.aopen
+import aurelii.read
 def readme():
     with open('README.rst', 'r') as f:
         return f.read()
