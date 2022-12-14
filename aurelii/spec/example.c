@@ -12,9 +12,6 @@ typedef struct ExampleBookshop {
     int     isOpen;
     float   totalValue;
 } Bookshop;
-/*
-I can't actually figure out how to use "flexible array members" :)
-*/
 
 int main() {
     Book book1 = {
