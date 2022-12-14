@@ -3,7 +3,7 @@ from setuptools import setup
 '''To build + upload run python -m build then twine upload dist/*'''
 
 setup(name='aurelii',
-      version='0.1.2.2',
+      version='0.1.2.4',
       description='Aurelii file format python package',
       long_description='Open source Aurelii file format python package by Xonize in OpenDTK',
       classifiers=[
