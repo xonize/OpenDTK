@@ -1,6 +1,7 @@
 import aurelii.read
 def readme():
-    with open('README.rst', 'r') as f:
+    '''Returns readme of the python package.'''
+    with open('README.rst', 'r', encoding='utf-8') as f:
         return f.read()
 
 def info():
