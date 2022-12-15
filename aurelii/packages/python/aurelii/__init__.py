@@ -1,6 +1,6 @@
 '''Aurelii file parsing package'''
-import aurelii.read
-import aurelii.write
+import aurelii.textmode.read
+import aurelii.textmode.write
 from aurelii.utils import AureliiFile
 def readme():
     '''Returns readme of the python package.'''
